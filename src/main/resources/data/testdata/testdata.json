@@ -1,0 +1,13 @@
+{
+	"testid": "001",
+	"testScenario": "Login page",
+	"testDescription": "Login to the home page",
+	"data": 
+	[
+		{
+			"textInput": "anjarul",
+			"password": "anjarul123",
+			"text":"this is our test"
+		}
+	]
+}
